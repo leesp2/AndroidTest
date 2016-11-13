@@ -12,6 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // 주석 작업
-        // 여러분 부자되세요
     }
 }
